@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Screen 2</title>
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="../styles/style.css" />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <div class="textContainer">
+            <p class="bold-text">
+              Sila masukkan nombor telefon anda untuk menerima notis tiket
+              melalui SMS
+            </p>
+            <p>
+              Please enter your mobile number to receive ticket notification via
+              SMS
+            </p>
+          </div>
+          <div class="form-group">
+            <label for="countryCode" class="bold-text">
+              Kod panggilan negara
+              <br />
+              <span class="normal-text">Country code</span>
+            </label>
+            <select id="countryCode" class="form-control">
+              <option value="MY" selected>Malaysia (+60)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="mobileNumber" class="bold-text">
+              Nombor telefon
+              <br />
+              <span class="normal-text">Mobile number</span>
+            </label>
+            <input type="text" id="mobileNumber" class="form-control" />
+          </div>
+          <div class="buttonContainer">
+            <button class="yellow-btn mt-3" id="toScreen3">
+              <div class="button-text">
+                <span class="bold-text">Dapatkan tiket</span>
+                <span>Get a ticket</span>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="../scripts/screen2.js"></script>
+  </body>
+</html>

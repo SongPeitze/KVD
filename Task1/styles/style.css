@@ -1,0 +1,132 @@
+:root {
+  --yellow: #f9cf00;
+  --blue: #0f41ab;
+  --dark-blue: #0a2c7e;
+  --white: #ffffff;
+  --black: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--blue);
+  color: var(--white);
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  padding: 0 50px;
+}
+
+.textContainer {
+  margin-bottom: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.normal-text {
+  font-weight: normal;
+}
+
+.yellow-btn {
+  background-color: var(--yellow);
+  border-radius: 50px;
+  color: var(--black);
+  padding: 10px 40px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-top: 20px;
+  color: var(--yellow);
+}
+
+.error-message {
+  color: red;
+  margin-top: 15px;
+}
+
+.white-container {
+  background-color: var(--white);
+  color: var(--black);
+  border-radius: 50px;
+  padding: 20px 40px;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.yellow-container {
+  background-color: var(--yellow);
+  color: var(--blue);
+  border-radius: 50px;
+  margin-bottom: 30px;
+  padding: 4px 30px;
+}
+
+.ticket-number {
+  color: var(--blue);
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.date-time-container {
+  position: relative;
+  background-color: var(--yellow);
+  color: var(--blue);
+  border-radius: 50px;
+  top: -40px; /* Overlap effect */
+  padding: 10px 0px;
+  z-index: 2;
+}
+
+.date-time {
+  font-weight: bold;
+  color: var(--black);
+}
+
+.customer-ahead-container {
+  background-color: var(--dark-blue);
+  color: var(--yellow);
+  border-radius: 10px;
+  padding: 4px 12px;
+  margin-top: 10px;
+}
+
+.textContainer {
+  margin-bottom: 50px;
+}

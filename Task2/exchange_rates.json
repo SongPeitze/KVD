@@ -1,0 +1,149 @@
+{
+    "last_update": "2024-07-24 20:32:54",
+    "rates": [
+        [
+            "USD",
+            "US Dollar",
+            "4.5867",
+            "4.7643"
+        ],
+        [
+            "SGD",
+            "Singapore Dollar",
+            "3.4013",
+            "3.5451"
+        ],
+        [
+            "NZD",
+            "New Zealand Dollar",
+            "2.7025",
+            "2.8537"
+        ],
+        [
+            "GBP",
+            "Pound Sterling",
+            "5.9179",
+            "6.1422"
+        ],
+        [
+            "EUR",
+            "The Euro",
+            "4.9684",
+            "5.1743"
+        ],
+        [
+            "CAD",
+            "Canadian Dollar",
+            "3.3185",
+            "3.4637"
+        ],
+        [
+            "BND",
+            "Brunei Dollar",
+            "3.3981",
+            "3.5481"
+        ],
+        [
+            "AUD",
+            "Australian Dollar",
+            "3.0093",
+            "3.1693"
+        ],
+        [
+            "AED",
+            "UAE Dirham",
+            "122.2000",
+            "132.3900"
+        ],
+        [
+            "CHF",
+            "Swiss Franc",
+            "514.2500",
+            "534.2800"
+        ],
+        [
+            "CNY",
+            "Chinese Renminbi",
+            "62.8500",
+            "65.4100"
+        ],
+        [
+            "DKK",
+            "Danish Kroner",
+            "65.2500",
+            "70.6800"
+        ],
+        [
+            "HKD",
+            "Hong Kong Dollar",
+            "58.2000",
+            "61.5400"
+        ],
+        [
+            "IDR",
+            "Indonesian Rupiah",
+            "0.0000",
+            "0.0300"
+        ],
+        [
+            "PHP",
+            "Philippine Peso",
+            "0.0000",
+            "8.3200"
+        ],
+        [
+            "INR",
+            "Indian Rupee",
+            "0.0000",
+            "5.8070"
+        ],
+        [
+            "JPY",
+            "Japanese Yen",
+            "2.9280",
+            "3.0710"
+        ],
+        [
+            "LKR",
+            "Sri Lanka Rupee",
+            "0.0000",
+            "1.6020"
+        ],
+        [
+            "NOK",
+            "Norwegian Kroner",
+            "40.7200",
+            "44.1100"
+        ],
+        [
+            "SAR",
+            "Saudi Arabia Riyal",
+            "120.5900",
+            "128.6900"
+        ],
+        [
+            "SEK",
+            "Swedish Kroner",
+            "41.6400",
+            "45.1100"
+        ],
+        [
+            "THB",
+            "Thai Baht",
+            "12.4130",
+            "13.4480"
+        ],
+        [
+            "ZAR",
+            "South African Rand",
+            "24.3700",
+            "26.4100"
+        ],
+        [
+            "GLD",
+            "Gold",
+            "1103.98030",
+            "1149.04070"
+        ]
+    ]
+}
